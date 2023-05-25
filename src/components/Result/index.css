@@ -1,0 +1,14 @@
+.result-container {
+  background-color: #ffffff;
+  width: 50%;
+  height: 50%;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.stats-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
